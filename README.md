@@ -15,9 +15,11 @@ Windowsのウィンドウをタブやグループでまとめ、
 
 ## ダウンロード
 
-現在、0.1.0 ベータ版の公開準備中です。
+**[WindowAtlas 0.1.0 ベータ版をダウンロード（Windows x64）](https://github.com/taka538/WindowAtlas-Releases/releases/download/v0.1.0/WindowAtlas-win-Setup.exe)**
 
-公開後は、このページからインストーラーをダウンロードできます。
+ダウンロードした `WindowAtlas-win-Setup.exe` を実行してください。
+
+[リリース情報・その他のファイル](https://github.com/taka538/WindowAtlas-Releases/releases/tag/v0.1.0)
 
 ## 使い方
 
