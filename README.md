@@ -19,6 +19,8 @@ Windowsのウィンドウをタブやグループでまとめ、
 
 ダウンロードした `WindowAtlas-win-Setup.exe` を実行してください。
 
+現在の配布版は未署名のため、起動時にWindowsのSmartScreen警告が表示される場合があります。
+
 [リリース情報・その他のファイル](https://github.com/taka538/WindowAtlas-Releases/releases/tag/v0.1.0)
 
 ## 使い方
